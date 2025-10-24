@@ -43,7 +43,7 @@ h1 {
 }
 
 #beyonce {
-    background-image: url(/assets/beyonce.jpg);
+    background-image: url(assets/beyonce.jpg);
     background-size: cover;
 }
 
