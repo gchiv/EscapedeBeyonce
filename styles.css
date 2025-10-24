@@ -43,8 +43,7 @@ h1 {
 }
 
 #beyonce {
-    background-image: url(assets/beyonce.jpg);
-    background-size: cover;
+   background-color: red;
 }
 
 #settings-panel {
